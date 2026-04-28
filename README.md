@@ -19,7 +19,6 @@ Featuring nearly 100 deep-level optimizations focused on reducing network latenc
 
 * **Completely Safe & Reversible:** Features a built-in backup engine that captures the exact state of your system before applying tweaks. This allows for instant and reliable restoration if you ever wish to revert to your original settings.
 * **True Performance Focus:** Enables hardware-accelerated GPU scheduling (HAGS), forces SSD TRIM for sustained drive speeds, isolates Windows Explorer processes to prevent system-wide freezes, and unlocks 100% network bandwidth by removing native OS throttling.
-* **Built for Gamers:** Disables mouse acceleration to force true raw input for muscle memory accuracy, turns off multiplane overlay (MPO) to prevent visual stuttering, and disables background capture services for minimal input latency and maximum frame rates.
 * **Deep System Cleanup:** Flushes temporary data, clears massive cached files, and optimizes session pool sizes to free up physical storage and RAM natively.
 * **Premium User Experience:** Clean, ad-free, borderless dark-themed interface designed to be straightforward, fast, and completely non-obtrusive.
 
